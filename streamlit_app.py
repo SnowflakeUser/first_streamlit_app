@@ -1,11 +1,11 @@
 import streamlit
 import pandas
 
-streamlit.title('My Parents New Healthy Diner')
+streamlit.title('Joes Vegan Rib Shack ')
 streamlit.header('Breakfast Menu')
-streamlit.text('Blueberry Oatmeal')
-streamlit.text('Kale Smoothie')
-streamlit.text('Free Range Eggs')
+streamlit.text('Vegan Blueberry Bacon Oatmeal')
+streamlit.text('Kale and Chicken Stock Smoothie')
+streamlit.text('Free Range Instant Eggs')
 streamlit.text('Avocado Toast')
 
 streamlit.title('Build you own fruit smoothie')
